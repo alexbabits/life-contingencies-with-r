@@ -1,0 +1,2 @@
+lifecontingencies: This package is used in the actuarial field to evaluate life contingencies and financial contracts based on life statuses. The package provides both actuarial present value factor (APV) and term insurance present value factor (TIPV) calculations for life annuities and insurance.
+https://cran.r-project.org/web/packages/LifeInsuranceContracts/index.html
